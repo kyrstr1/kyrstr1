@@ -48,15 +48,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kyrstr1&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=uft449chf6xjx0qdxchupvayn&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=uft449chf6xjx0qdxchupvayn&redirect=true)
+
 </div>
 
 ###
-
-###
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=uft449chf6xjx0qdxchupvayn&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=uft449chf6xjx0qdxchupvayn&redirect=true)
-
 ###
 
 
