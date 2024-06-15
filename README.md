@@ -23,17 +23,3 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=autocad" height="35" alt="autocad logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<h1 align="center">ㅤ<br>ㅤ<br>ㅤ</h1>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/kyrstr1/kyrstr1/output/snake.svg" alt="Snake animation" />
-
-###
