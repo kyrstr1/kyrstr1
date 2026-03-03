@@ -4,8 +4,6 @@
 
 ###
 
-<br clear="both">
-
 <h1 align="center">Ben KAYRA</h1>
 
 ###
@@ -13,8 +11,6 @@
 <h3 align="center">İhtiyacım olan şeyleri basit ve işlevsel web projeleri olarak geliştiriyorum.</h3>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kayra-satir-27a50b284/" target="_blank">
@@ -26,8 +22,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
