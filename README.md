@@ -1,5 +1,3 @@
-<br clear="both">
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=34&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
@@ -15,8 +13,6 @@
 <h3 align="center">İhtiyacım olan şeyleri basit ve işlevsel web projeleri olarak geliştiriyorum.</h3>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kayra-satir-27a50b284/" target="_blank">
@@ -60,16 +56,6 @@
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kyrstr1/kyrstr1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kyrstr1/kyrstr1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kyrstr1/kyrstr1/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<br clear="both">
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=34&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
