@@ -26,28 +26,40 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="15" />
+  
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="15" />
+  
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img width="15" />
+  
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="15" />
+  
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
   <img width="15" />
+  
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="15" />
+  
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="15" />
+  
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="15" />
+  
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
   <img width="15" />
+  
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="15" />
+  
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="15" />
+  
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="15" />
+  
   <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="autocad logo"  />
 </div>
 
