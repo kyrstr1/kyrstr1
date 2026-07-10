@@ -4,13 +4,10 @@
 
 ###
 
-<h1 align="center">Ben KAYRA</h1>
+<h1 align="center">YAPARIM</h1>
 
 ###
 
-<h3 align="center">İhtiyacım olan şeyleri basit ve işlevsel web projeleri olarak geliştiriyorum.</h3>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kayra-satir-27a50b284/" target="_blank">
